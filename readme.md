@@ -1,14 +1,9 @@
 # Guessing Game made with windows native gui in rust 
 
-
-
-# Requirements
-
-Rust
-
+A simple gui guessing game. guess the number between 1-100
 
 # Usage
-
+need rust installed
 - CD into dir 
 - Cargo run
 - Or Cargo build and launch the exe in /target
